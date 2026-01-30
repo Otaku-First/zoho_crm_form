@@ -2,7 +2,7 @@
 
 Laravel + Inertia.js + Vue 3 application for creating Accounts and Deals in Zoho CRM via a two-step wizard.
 
-[Video Demo](https://drive.google.com/file/d/1eA3Jfm5moEulssNAL4q6nJy3eCzJ0nMO/view?usp=sharing)
+[Video Demo](https://drive.google.com/file/d/1eA3Jfm5moEulssNAL4q6nJy3eCzJ0nMO/view?usp=sharing) | [Live Demo](https://zohocrmform-production.up.railway.app/)
 
 ## Tech Stack
 
